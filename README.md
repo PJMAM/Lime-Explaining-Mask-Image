@@ -13,3 +13,5 @@
 
 
 ## Link dowload dataset in [here](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) ##
+
+## Link drive: doc report, powerpoint presentation, source code in [here](https://drive.google.com/drive/folders/1AvY3RtMAa_Ea7t6V9bOqikMlyGyk8zM1?usp=sharing)
